@@ -5,7 +5,7 @@ A simple React application demonstrating the use of Context API for state manage
 
 Demo
 
-Try it live: [Insert Demo Link Here]
+Try it live: [<img width="958" height="817" alt="Image" src="https://github.com/user-attachments/assets/715dce3f-9a10-4879-936f-39e574551766" />]
 (Username: amrit, Password: mgh to see "Welcome amrit")
 
 Features
